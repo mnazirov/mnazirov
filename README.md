@@ -17,5 +17,5 @@
 ### :man_technologist: About Me :
 
 - :telescope: I’m working as a iOS Developer from Kazan. Creating apps for Fintech.
-- 
+  
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-mnazirov-blue?style=flat&logo=Telegram&logoColor=white)](https://tlgg.ru/mnazirov)
